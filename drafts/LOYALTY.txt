@@ -1,0 +1,21 @@
+Name|Gender|Address1|Birthday|Occupation|Company|Email|Phone
+CAT THOMAS|F|3005 BROOKSIDE DRIVE,GUIN,ALABAMA,35563,US|1927-01-01|Heating air-conditioning and refrigeration mec|House of Gas|KatherineMThomas@mailinator.co|205-412-9602
+VON NEUMANN, JOHN|M|4026 MAPLE LANE,HUNTSVILLE,ALABAMA,35802,US|1927-01-01|Farm equipment mechanic|Tower Records|jlvonn@mailinator.co|256-522-5585
+SAM TENNYSON|M|2715 MULBERRY AVE,DONALDSON,ARKANSAS,71941,US|1927-01-01|Land agent|AM/PM Camp|SamCTennyson@dodgit.com|501-384-1324
+CURRY, CHRISTY|F|399 MASONIC HILL ROAD,LITTLE ROCK,ARKANSAS,72212,US|1927-01-01|Industrial property manager|Giant|KristiRCurry@dodgit.com|501-529-6712
+WANDA SMITH|F|2190 CEDAR ST,PINE BLUFF,ARKANSAS,71601,US|1927-01-01|Insurance sales agent|Quality Merchant Servic|WandaRSmith@dodgit.com|870-814-4444
+JIM HOADLEY|M|1078 DAVIS AVE,CONCORD,CALIFORNIA,94520,US|1927-01-01|Marine electronics technician|Packer|Jim.Hoadley@mailinator.com|707-738-1378
+CALVIN WENZEL|M|1007 THOMPSON DR,DUBLIN,CALIFORNIA,94568,US|1927-01-01|Medical social worker|Harvest Foods|CalWenzel@mailinator.com|510-453-8297
+JENNIFER RYAN|F|4974 WATER STREET,FREMONT,CALIFORNIA,94539,US|1927-01-01|Diabetes management nurse|Tape World|JennyRyan@dodgit.com|925-259-5665
+DICK REYES|M|4819 KERRY WAY,LOS ANGELES,CALIFORNIA,90017,US|1927-01-01|Forest fire inspector|Gold Medal|RickReyes@pookmail.com|562-738-9044
+ATTWOOD, JAMES|M|3238 HERITAGE RD,SAN JOAQUIN,CALIFORNIA,93660,US|1927-01-01|Information systems manager|Thom McAn Store|JamesSAttwood@spambob.com|559-693-5324
+ECHO KAYE|F|3215 THOMPSON DR,SAN LEANDRO,CALIFORNIA,94578,US|1927-01-01|Navy|Canal Villere|EchoKaye@dodgit.com|510-347-2876
+CHRISTIAN, ANNA|F|3323 MORGAN ST,FORT WALTON BEACH,FLORIDA,32548,US|1927-01-01|Mixing and blending machine tender|Sambo's|AnnaChristi@dodgit.com|850-467-1006
+LINDA CHEEKS|F|3385 RINEHART RD,MIAMI,FLORIDA,33128,US|1927-01-01|Delivery service driver|Home Centers|LindaRCheeks@trashymail.com|786-499-2016
+AGNES YATES|F|4334 CHESTNUT ST,POLK CITY,FLORIDA,33868,US|1927-01-01|Floor installer|Pro-Care Garden Mainten|AgnesRYates@pookmail.com|727-460-5745
+REGINA SNIDER|F|3697 RINEHART RD,SUNRISE,FLORIDA,33323,US|1927-01-01|Automotive glass installer|Fradkin Brothers Furnit|ReginaCSnider@mailinator.com|786-356-4455
+NICHOLE ROBINSON|F|622 CHESTNUT ST,TAMPA,FLORIDA,33610,US|1927-01-01|Architectural drafter|A Plus Lawn Care|NicholeWRobinson@trashymail.co|727-410-7274
+KEVIN RAMIREZ|M|1813 FLINT ST,ATLANTA,GEORGIA,30303,US|1927-01-01|ABE teacher|Mr. D's IGA|KevinDRamirez@trashymail.com|678-241-0197
+KRIS CAROLAN|M|3935 LAKELAND PARK DRIVE,DULUTH,GEORGIA,30097,US|1927-01-01|Real property appraiser|Dun Rite Lawn Maintenan|KrisJCarolan@spambob.com|770-584-8429
+THOMAS JENKINS|M|2565 PIN OAK DR,DAVENPORT,IOWA,52803,US|1927-01-01|Certified pest control applicator|Gemco|ThomasEJenkins@dodgit.com|563-333-4706
+MICHAEL TILLMAN|M|4854 POPLAR ST,CALUMET CITY,ILLINOIS,60409,US|1927-01-01|Computer training specialist|Belle Lady|MichealBTillman@pookmail.com|708-730-8200
