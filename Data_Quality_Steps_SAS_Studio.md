@@ -40,7 +40,7 @@ Select **No** when prompted about accepting *Admin* privileges.
 
    ![Customers Preview](img/CustomersPreview.png)
 
-   Note that each customer appears three times with different name formats and varying additional column information. We would like to deduplicate this data by combining unique values into one row per customer.
+   CUSTOMERS has **60** rows and **5** columns. Note that each customer appears three times with different name formats and varying additional column information. We would like to deduplicate this data by combining unique values into one row per customer.
 
 ### Remove Duplicates with Survivorship Snippet
 
@@ -74,5 +74,55 @@ Select **No** when prompted about accepting *Admin* privileges.
     ```
 
    </details></p>
+
+   ![Survivorship Example](img/SurvivorshipExample.png)
+
+1. Edit the macro parameters as follows:
+
+   * inTable=**&_input1**
+   * outTable=**&_output1**
+   * clusterColumn=**CustomerID**
+   * rowRule1=**(longest, Name)**
+     >The surviving record will be chosen by the longest **Name** value, because this should be the fullest version of the customer's name.
+   * firstColumnRule1=**(not_missing, Birthday)**
+     > The surviving record should store the first non-missing birthday value from the cluster records.
+   * **Delete firstColumnRuleAppliedCols=(Zipcode)**
+   * secondColumnRule1=**(not_missing, Phone)**
+     > The surviving record should store the first non-missing Phone value from the cluster records.
+   * **Add a comma after** keepDuplicates=**0**
+   * **Add generateDistinctSurvivor=1** after keepDuplicates=**0**
+
+   <p><details markdown="block">
+
+   <summary>Click to view or copy the edited macro call.</summary>
+
+   ```bash
+   %dqsurvr (inTable=&_input1,
+              outTable=&_output1,
+              clusterColumn=CustomerID,
+              rowRule1=(longest, Name),
+              firstColumnRule1=(not_missing, Birthday),
+              secondColumnRule1=(not_missing, Phone),
+              keepDuplicates=0,
+              generateDistinctSurvivor=1);
+    ```
+
+   </details></p>
+
+   ![Survivorship Edited](img/SurvivorshipEdited.png)
+
+1. On the **Node** tab, re-name the node to **Surviving Records**.
+
+   ![Rename Program Node](img/RenameProgramNode.png)
+
+1. Select ![Save Button](img/SaveButton.png) to save the flow.
+1. Navigate to **SAS Content &#10132; Public**. Save the file as **DQ_HOW.flw**.
+1. Select ![Run](img/Run.png) on the flow toolbar to run the flow.
+1. After the low has run successfully, click the shaded **output port** on *Surviving Records*.
+1. Click **Preview Data** to review the output.
+
+   ![Survivorship Output](img/SurvivorshipOutput.png)
+
+   The output table has **20** rows and **5** columns. Duplicate records were accurately condensed to store all customer data in one record.
 
 ## TBD
