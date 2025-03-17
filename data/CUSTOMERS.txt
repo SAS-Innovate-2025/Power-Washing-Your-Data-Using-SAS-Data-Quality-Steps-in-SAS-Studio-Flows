@@ -1,61 +1,61 @@
-CustomerID|Name|Address1|Birthday|Phone
-100000001|Catherine M. Thomas|3005 Brookside Drive,Guin,AL,35563,US||205-412-9602
-100000001|Thomas, Catherine M.|3005 Brookside Drive,Guin,AL,35563,US|1927-01-01|
-100000001|CAT THOMAS|3005 BROOKSIDE DRIVE,GUIN,ALABAMA,35563,US||
-100000002|VON NEUMANN, JOHN|4026 MAPLE LANE,HUNTSVILLE,ALABAMA,35802,US||
-100000002|John L. von Neumann|4026 Maple Lane,Huntsville,AL,35802,US||256-522-5585
-100000002|von Neumann, John L.|4026 Maple Lane,Huntsville,AL,35802,US|1927-01-01|
-100000003|Tennyson, Sam C.|2715 Mulberry Avenue,Donaldson,AR,71941,US|1927-01-01|
-100000003|SAM TENNYSON|2715 MULBERRY AVE,DONALDSON,ARKANSAS,71941,US||
-100000003|Sam C. Tennyson|2715 Mulberry Avenue,Donaldson,AR,71941,US||501-384-1324
-100000004|Curry, Kristi R.|399 Masonic Hill Road,Little Rock,AR,72212,US|1927-01-01|
-100000004|CURRY, CHRISTY|399 MASONIC HILL ROAD,LITTLE ROCK,ARKANSAS,72212,US||
-100000004|Kristi R. Curry|399 Masonic Hill Road,Little Rock,AR,72212,US||501-529-6712
-100000005|WANDA SMITH|2190 CEDAR ST,PINE BLUFF,ARKANSAS,71601,US||
-100000005|Smith, Wanda R.|2190 Cedar Street,Pine Bluff,AR,71601,US|1927-01-01|
-100000005|Wanda R. Smith|2190 Cedar Street,Pine Bluff,AR,71601,US||870-814-4444
-100000006|JIM HOADLEY|1078 DAVIS AVE,CONCORD,CALIFORNIA,94520,US||
-100000006|James R.R. Hoadley|1078 Davis Ave,Concord,CA,94520,US||707-738-1378
-100000006|Hoadley, James R.R.|1078 Davis Avenue,Concord,CA,94520,US|1927-01-01|
-100000007|CALVIN WENZEL|1007 THOMPSON DR,DUBLIN,CALIFORNIA,94568,US||
-100000007|Calvin B. Wenzel|1007 Thompson Drive,Dublin,CA,94568,US||510-453-8297
-100000007|Wenzel, Calvin B.|1007 Thompson Drive,Dublin,CA,94568,US|1927-01-01|
-100000008|Jennifer R. Ryan|4974 Water Street,Fremont,CA,94539,US||925-259-5665
-100000008|Ryan, Jennifer R.|4974 Water Street,Fremont,CA,94539,US|1927-01-01|
-100000008|JENNIFER RYAN|4974 WATER STREET,FREMONT,CALIFORNIA,94539,US||
-100000009|Richard T. Reyes|4819 Kerry Way,Los Angeles,CA,90017,US||562-738-9044
-100000009|Reyes, Richard T.|4819 Kerry Way,Los Angeles,CA,90017,US|1927-01-01|
-100000009|DICK REYES|4819 KERRY WAY,LOS ANGELES,CALIFORNIA,90017,US||
-100000010|James, Attwood|3238 Heritage Road,San Joaquin,CA,93660,US||559-693-5324
-100000010|Attwood, James|3238 Heritage Road,San Joaquin,CA,93660,US|1927-01-01|
-100000010|ATTWOOD, JAMES|3238 HERITAGE RD,SAN JOAQUIN,CALIFORNIA,93660,US||
-100000011|Kaye, Echo P.|3215 Thompson Drive,San Leandro,CA,94578,US|1927-01-01|
-100000011|Echo P. Kaye|3215 Thompson Drive,San Leandro,CA,94578,US||510-347-2876
-100000011|ECHO KAYE|3215 THOMPSON DR,SAN LEANDRO,CALIFORNIA,94578,US||
-100000012|Christian, Anna R.|3323 Morgan Street,Fort Walton beach,FL,32548,US|1927-01-01|
-100000012|CHRISTIAN, ANNA|3323 MORGAN ST,FORT WALTON BEACH,FLORIDA,32548,US||
-100000012|Anna R. Christian|3323 Morgan Street,Fort Walton beach,FL,32548,US||850-467-1006
-100000013|Cheeks, Linda R.|3385 Rinehart Road,Miami,FL,33128,US|1927-01-01|
-100000013|Linda R. Cheeks|3385 Rinehart Rd,Miami,FL,33128,US||786-499-2016
-100000013|LINDA CHEEKS|3385 RINEHART RD,MIAMI,FLORIDA,33128,US||
-100000014|Yates, Agnes R.|4334 Chestnut Street,Polk City,FL,33868,US|1927-01-01|
-100000014|Agnes R. Yates|4334 Chestnut Street,Polk City,FL,33868,US||727-460-5745
-100000014|AGNES YATES|4334 CHESTNUT ST,POLK CITY,FLORIDA,33868,US||
-100000015|Snider, Regina C.|3697 Rinehart Road,Sunrise,FL,33323,US|1927-01-01|
-100000015|Regina C. Snider|3697 Rinehart Rd,Sunrise,FL,33323,US||786-356-4455
-100000015|REGINA SNIDER|3697 RINEHART RD,SUNRISE,FLORIDA,33323,US||
-100000016|Robinson, Nichole W.|622 Chestnut Street,Tampa,FL,33610,US|1927-01-01|
-100000016|Nichole W. Robinson|622 Chestnut Street,Tampa,FL,33610,US||727-410-7274
-100000016|NICHOLE ROBINSON|622 CHESTNUT ST,TAMPA,FLORIDA,33610,US||
-100000017|Kevin D. Ramirez|1813 Flint St,Atlanta,GA,30303,US||678-241-0197
-100000017|KEVIN RAMIREZ|1813 FLINT ST,ATLANTA,GEORGIA,30303,US||
-100000017|Ramirez, Kevin D.|1813 Flint Street,Atlanta,GA,30303,US|1927-01-01|
-100000018|Kris J. Carolan|3935 Lakeland Park Driv,Duluth,GA,30097,US||770-584-8429
-100000018|KRIS CAROLAN|3935 LAKELAND PARK DRIVE,DULUTH,GEORGIA,30097,US||
-100000018|Carolan, Kris J.|3935 Lakeland Park Driv,Duluth,GA,30097,US|1927-01-01|
-100000019|Thomas E. Jenkins|2565 Pin Oak Dr,Davenport,IA,52803,US||563-333-4706
-100000019|THOMAS JENKINS|2565 PIN OAK DR,DAVENPORT,IOWA,52803,US||
-100000019|Jenkins, Thomas E.|2565 Pin Oak Drive,Davenport,IA,52803,US|1927-01-01|
-100000020|Tillman, Michael B.|4854 Poplar Street,Calumet City,IL,60409,US|1927-01-01|
-100000020|Michael B. Tillman|4854 Poplar Street,Calumet City,IL,60409,US||708-730-8200
-100000020|MICHAEL TILLMAN|4854 POPLAR ST,CALUMET CITY,ILLINOIS,60409,US||
+CustomerID|Name|Gender|Address1|Birthday|Occupation|Company|Email|Phone
+|AGNES R. YATES||4334 CHESTNUT ST,POLK CITY,FLORIDA,33868,US|||||
+|JAMES ATTWOOD||3238 HERITAGE RD,SAN JOAQUIN,CALIFORNIA,93660,US|||||
+000100000014|Agnes R. Yates||4334 Chestnut Street,Polk City,FL,33868,US||||AgnesRYates@pookmail.com|727-460-5745
+000100000012|Anna R. Christian||3323 Morgan Street,Fort Walton beach,FL,32548,US||||AnnaChristi@dodgit.com|850-467-1006
+000100000010|Attwood, James|M|3238 Heritage Road,San Joaquin,CA,93660,US|1988-06-29|Information systems manager|Thom McAn Store||
+|CALVIN WENZEL||1007 THOMPSON DR,DUBLIN,CALIFORNIA,94568,US|||||
+|CATHERINE M. THOMAS||3005 BROOKSIDE DRIVE,GUIN,ALABAMA,35563,US|||||
+|CHRISTIAN, ANNA||3323 MORGAN ST,FORT WALTON BEACH,FLORIDA,32548,US|||||
+|CURRY, KRISTI R.||399 MASONIC HILL ROAD,LITTLE ROCK,ARKANSAS,72212,US|||||
+000100000007|Calvin B. Wenzel||1007 Thompson drive,Dublin,CA,94568,US||||CalWenzel@mailinator.com|510-453-8297
+000100000018|Carolan, Kris J.|M|3935 Lakeland Park Driv,Duluth,GA,30097,US|1986-09-23|Real property appraiser|Dun Rite Lawn Maintenance||
+000100000001|Catherine Thomas||3005 Brookside Drive,Guin,AL,35563,US||||KatherineMThomas@mailinator.co|205-412-9602
+000100000013|Cheeks, Linda|F|3385 Rinehart Road,Miami,FL,33128,US|1999-09-30|Delivery service driver|Home Centers||
+000100000012|Christian, Anna R.|F|3323 Morgan Street,Fort Walton beach,FL,32548,US|1979-07-30|Mixing and blending machine tender|Sambo's||
+000100000004|Curry, Kristi|F|399 Masonic Hill Road,Little Rock,AR,72212,US|1996-05-13|Industrial property manager|Giant||
+|DICK REYES||4819 KERRY WAY,LOS ANGELES,CALIFORNIA,90017,US|||||
+|ECHO P. KAYE||3215 THOMPSON DR,SAN LEANDRO,CALIFORNIA,94578,US|||||
+000100000011|Echo P. Kaye||3215 Thompson Drive,San Leandro,CA,94578,US||||EchoKaye@dodgit.com|510-347-2876
+000100000006|Hoadley, James R.R.|M|1078 Davis Avenue,Concord,CA,94520,US|1995-06-10|Marine electronics technician|Packer||
+|JENNIFER RYAN||4974 WATER STREET,FREMONT,CALIFORNIA,94539,US|||||
+|JIM HOADLEY||1078 DAVIS AVE,CONCORD,CALIFORNIA,94520,US|||||
+000100000006|James R.R. Hoadley||1078 Davis Ave,Concord,CA,94520,US||||Jim.Hoadley@mailinator.com|707-738-1378
+000100000010|James, Attwood||3238 Heritage Road,San Joaquin,CA,93660,US||||JamesSAttwood@spambob.com|559-693-5324
+000100000019|Jenkins, Thomas E.|M|2565 Pin Oak Drive,Davenport,IA,52803,US|1972-10-26|Certified pest control applicator|Gemco||
+000100000008|Jennifer R. Ryan||4974 Water street,Fremont,CA,94539,US||||JennyRyan@dodgit.com|925-259-5665
+000100000002|John L. von neumann||4026 Maple lane,Huntsville,AL,35802,US||||jlvonn@mailinator.co|256-522-5585
+|KEVIN RAMIREZ||1813 FLINT ST,ATLANTA,GEORGIA,30303,US|||||
+|KRIS CAROLAN||3935 LAKELAND PARK DRIVE,DULUTH,GEORGIA,30097,US|||||
+000100000011|Kaye, Echo P.|F|3215 Thompson Drive,San Leandro,CA,94578,US|1966-06-12|Navy|Canal Villere||
+000100000017|Kevin D. Ramirez||1813 Flint st,Atlanta,GA,30303,US||||KevinDRamirez@trashymail.com|678-241-0197
+000100000018|Kris J. Carolan||3935 Lakeland Park Driv,Duluth,GA,30097,US||||KrisJCarolan@spambob.com|770-584-8429
+000100000004|Kristi R. Curry||399 Masonic Hill Road,Little Rock,AR,72212,US||||KristiRCurry@dodgit.com|501-529-6712
+|LINDA CHEEKS||3385 RINEHART RD,MIAMI,FLORIDA,33128,US|||||
+000100000013|Linda R. Cheeks||3385 Rinehart rd,Miami,FL,33128,US||||LindaRCheeks@trashymail.com|786-499-2016
+|MICHAEL TILLMAN||4854 POPLAR ST,CALUMET CITY,ILLINOIS,60409,US|||||
+000100000020|Michael B. Tillman||4854 Poplar Street,Calumet City,IL,60409,US||||MichealBTillman@pookmail.com|708-730-8200
+|NICHOLE W. ROBINSON||622 CHESTNUT ST,TAMPA,FLORIDA,33610,US|||||
+000100000016|Nichole W. Robinson||622 Chestnut Street,Tampa,FL,33610,US||||NicholeWRobinson@trashymail.co|727-410-7274
+|REGINA C. SNIDER||3697 RINEHART RD,SUNRISE,FLORIDA,33323,US|||||
+000100000017|Ramirez, Kevin D.|M|1813 Flint Street,Atlanta,GA,30303,US|1998-08-27|ABE teacher|Mr. D's IGA||
+000100000015|Regina C Snider||3697 Rinehart Rd,Sunrise,FL,33323,US||||ReginaCSnider@mailinator.com|786-356-4455
+000100000009|Reyes, Richard|M|4819 Kerry Way,Los Angeles,CA,90017,US|1974-10-06|Forest fire inspector|Gold Medal||
+000100000009|Richard T. Reyes||4819 Kerry way,Los angeles,CA,90017,US||||RickReyes@pookmail.com|562-738-9044
+000100000016|Robinson, Nichole|F|622 Chestnut Street,Tampa,FL,33610,US|1999-07-05|Architectural drafter|A Plus Lawn Care||
+000100000008|Ryan, Jennifer|F|4974 Water Street,Fremont,CA,94539,US|1970-12-15|Diabetes management nurse|Tape World||
+|SAM TENNYSON||2715 MULBERRY AVE,DONALDSON,ARKANSAS,71941,US|||||
+000100000003|Samuel C. Tennyson||2715 Mulberry avenue,Donaldson,AR,71941,US||||SamCTennyson@dodgit.com|501-384-1324
+000100000005|Smith, Wanda R.|F|2190 Cedar Street,Pine Bluff,AR,71601,US|1999-01-26|Insurance sales agent|Quality Merchant Service||
+000100000015|Snider, Regina|F|3697 Rinehart Road,Sunrise,FL,33323,US|1989-09-22|Automotive glass installer|Fradkin Brothers Furniture||
+|THOMAS JENKINS||2565 PIN OAK DR,DAVENPORT,IOWA,52803,US|||||
+000100000003|Tennyson, Sam C.|M|2715 Mulberry Avenue,Donaldson,AR,71941,US|1978-01-27|Land agent|AM/PM Camp||
+000100000019|Thomas E. Jenkins||2565 Pin Oak Dr,Davenport,IA,52803,US||||ThomasEJenkins@dodgit.com|563-333-4706
+000100000001|Thomas, Cat M.|F|3005 Brookside Drive,Guin,AL,35563,US|1983-06-12|Heating air-conditioning and refrigeration mec|House of Gas||
+000100000020|Tillman, Michael B.|M|4854 Poplar Street,Calumet City,IL,60409,US|1986-01-27|Computer training specialist|Belle Lady||
+|VON NEUMANN, JOHN||4026 MAPLE LANE,HUNTSVILLE,ALABAMA,35802,US|||||
+|WANDA SMITH||2190 CEDAR ST,PINE BLUFF,ARKANSAS,71601,US|||||
+000100000005|Wanda R. Smith||2190 Cedar Street,Pine Bluff,AR,71601,US||||WandaRSmith@dodgit.com|870-814-4444
+000100000007|Wenzel, Calvin|M|1007 Thompson Drive,Dublin,CA,94568,US|1966-09-28|Medical social worker|Harvest Foods||
+000100000014|Yates, Agnes|F|4334 Chestnut Street,Polk City,FL,33868,US|1998-05-13|Floor installer|Pro-Care Garden Maintenance||
+000100000002|von Neumann, John|M|4026 Maple Lane,Huntsville,AL,35802,US|1995-03-04|Farm equipment mechanic|Tower Records||
