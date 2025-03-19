@@ -310,7 +310,7 @@ Select **No** when prompted about accepting *Admin* privileges.
 
    ![Final Table](img/FinalTable.png)
 
-1. **Close** the *Flow* file tab after reviewing results.
+1. **Close** the *DQ_HOW.flw* file tab after reviewing the results.
 
 ## Exercise Completed
 
