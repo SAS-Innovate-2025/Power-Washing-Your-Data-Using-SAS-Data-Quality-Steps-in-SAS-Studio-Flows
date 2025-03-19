@@ -140,7 +140,7 @@ Select **No** when prompted about accepting *Admin* privileges.
      > &#9998; The surviving record should store the *Birthday*, *Occupation*, and *Company* values from the row satisfying *firstColumnRule1*.
    * secondColumnRule1=**(not_missing, Email)**
      > &#9998; The surviving record should store the first non-missing *Email* value from the cluster records.
-   * **Add firstColumnRuleAppliedCols=(CustomerID, Phone)**
+   * **Add secondColumnRuleAppliedCols=(CustomerID, Phone),** (including comma after option)
      > &#9998; The surviving record should store the *CustomerID* and *Phone* values from the row satisfying *secondColumnRule1*.
    * **Add a comma after** keepDuplicates=**0**
    * **Add generateDistinctSurvivor=1** after keepDuplicates=**0**
@@ -179,6 +179,7 @@ Select **No** when prompted about accepting *Admin* privileges.
 
 ### Parse Address Data
 
+1. Select ![Steps Menu Icon](img/StepsIcon.png) to return to the **Steps** pane.
 1. Add the **Parse Data** step from the *Data Quality* section of the *Steps* pane to the flow canvas and connect it to the *SAS Program (Surviving Records)* step.
 1. **Arrange** the nodes and **save** the flow.
 
